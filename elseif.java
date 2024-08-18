@@ -21,6 +21,6 @@ class elseif
 			   System.out.println("Good Night");
 		   }
 
-			System.out.println("if else");
+			
 		}
 }
