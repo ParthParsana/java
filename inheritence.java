@@ -21,7 +21,7 @@ class c extends b
 	void disp2()
 
 	{
-       System.out.println("goo....");
+       System.out.println("go....");
 	}
 }
  class c_main
