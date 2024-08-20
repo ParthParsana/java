@@ -3,7 +3,7 @@ class constructor
 	int a;
    constructor()   //default constructor
   {
-     System.out.println("hi...");
+     System.out.println("hiii...");
   }
   
   constructor(int x )   //paramitrised constructor
