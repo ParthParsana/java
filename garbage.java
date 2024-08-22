@@ -2,7 +2,7 @@ class a
 {
 	void finalized()
 	{
-		System.out.println("object Delete");
+		System.out.println("Delete");
 	}
 }
 
