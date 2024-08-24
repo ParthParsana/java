@@ -24,7 +24,7 @@
         System.out.println("Saturday");
         break;
       case 7:
-        System.out.println("Sundayyyyy");
+        System.out.println("Sunday");
         break;
     }
   }
