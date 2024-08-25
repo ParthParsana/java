@@ -3,7 +3,7 @@ class forloop
     public static void main(String x[])
 	
 	{
-	   for (int i = 0;i <= 10;i = i++)
+	   for (int i = 0;i <= 10;i = i+2)
 	    
 		{
 		   System.out.println(i);
