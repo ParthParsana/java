@@ -6,7 +6,7 @@
     switch (day) 
 	{
       case 1:
-        System.out.println("Monday");
+        System.out.println("Mondayyyy");
         break;
       case 2:
         System.out.println("Tuesday");
