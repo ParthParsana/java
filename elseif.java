@@ -18,7 +18,7 @@ class elseif
 		   }
 		   else 
 		   {
-			   System.out.println("Good Nighttttt");
+			   System.out.println("Good Night");
 		   }
 
 			
